@@ -184,3 +184,8 @@ C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreap
 C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
 C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Owner\Documents\ASP.NET Core MVC\ConnectionPractice\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
